@@ -1,0 +1,12 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "This project uses Auto0 to authorize a client and grant access to specific routes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
